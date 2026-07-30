@@ -5,7 +5,7 @@ This repository contains the analysis code used in the study “Community engage
 
 - `code/`: Python and R analysis scripts
 - `data/`: source data or data-access instructions
-- `results/`: generated figures and tables
+- `figures/`: generated figures
 
 ## Requirements
 
